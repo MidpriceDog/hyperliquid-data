@@ -1,0 +1,15 @@
+.data/
+*.exe
+*.exe~
+*.dll
+*.dylib
+*.so
+*.test
+/target/
+**/target/
+rust-toolchain
+.cargo/
+rustup/
+clippy.toml
+rustfmt.toml
+Cargo.lock
